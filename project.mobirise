@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1139",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -91,7 +91,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran%20al%C4%B1nt%C4%B1s%C4%B1-661x310.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -457,7 +457,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><b>İLETİŞİM</b><br>\nEmail: support@mobirise.com<br>\nTelefon: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -589,7 +589,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran%20al%C4%B1nt%C4%B1s%C4%B1-661x310.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -693,7 +693,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><b>İLETİŞİM</b><br>\nEmail: support@mobirise.com<br>\nTelefon: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -825,7 +825,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran%20al%C4%B1nt%C4%B1s%C4%B1-661x310.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -923,7 +923,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/as%C4%B1-563x513.png",
+              "src": "@PROJECT_PATH@/assets/images/as-563x513.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1032,7 +1032,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><b>İLETİŞİM</b><br>\nEmail: support@mobirise.com<br>\nTelefon: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -1164,7 +1164,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran%20al%C4%B1nt%C4%B1s%C4%B1-661x310.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -1254,7 +1254,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><b>İLETİŞİM</b><br>\nEmail: support@mobirise.com<br>\nTelefon: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
