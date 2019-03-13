@@ -458,7 +458,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
           "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "semta@semta.com.tr",
@@ -694,7 +694,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
           "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "semta@semta.com.tr",
@@ -1033,7 +1033,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
           "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "semta@semta.com.tr",
@@ -1255,7 +1255,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
           "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "semta@semta.com.tr",
