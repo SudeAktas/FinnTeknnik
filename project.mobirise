@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1139",
-    "currentPage": "iletisim.html",
+    "currentPage": "urunlerimiz.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1158,7 +1158,7 @@
         }
       ]
     },
-    "anasayfa.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Anasayfa- Finnteknik boya ürünleri vs vs",
