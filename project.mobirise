@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1139",
-    "currentPage": "anasayfa.html",
+    "currentPage": "iletisim.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -88,7 +88,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1-810x450.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -310,7 +310,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -1230,7 +1230,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-810x450.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
