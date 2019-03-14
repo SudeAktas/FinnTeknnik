@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1139",
-    "currentPage": "index.html",
+    "currentPage": "anasayfa.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,15 +14,1154 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 37,
+    "uniqCompNum": 41,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "iletisim.html": {
+      "settings": {
+        "meta_descr": "Finnteknik iletişim\n0212.222",
+        "title": "İletişim - Finnteknik boya ürünleri vs vs",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">İLETİŞİM</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/finn-135x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-10"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6ed95917f97cce4bed0fbfff5258bef1-2000x1390.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.8"
+          },
+          "title": "İletişim Formu",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Bizimle iletişime geçin</a>",
+          "form": {
+            "action": "semta@semta.com.tr",
+            "alerts": {
+              "success": "Mesajınız başarıyla alındı!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "AD"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-MAİL"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "TELEFON"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "MESAJ"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-z",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1e1a18",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
+          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "semta@semta.com.tr",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mesaj"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Company Name. Terms of Use  | Privacy Policy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-y"
+        }
+      ]
+    },
+    "hakkimizda.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Hakkımızda- Finnteknik boya ürünleri vs vs",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">İLETİŞİM</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/finn-135x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-o"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6ed95917f97cce4bed0fbfff5258bef1-2-2000x1390.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#1e1a18",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6ed95917f97cce4bed0fbfff5258bef1-2000x1390.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "\n<div><br></div><div>HAKKIMIZDA</div>",
+          "text": "<p>Winkel Gmbh firması 2000'li yılların ortasında Euskirchen'de kurulmuştur. Endüstri, otomotiv, inşaat gibi sektörlere kimyasal ve teknik ürünler üreten bir firmadır.\r</p><p>\r</p><p>Winkel ürün gamında;Aerosoller,yapıştırıcılar,yüzey tekniği yağlama,gres ve hijyen ürünleri bulunur.\r</p><p>\r</p><p>Winkel yurtdışında bir çok ülkeye temsilcilikler yolu ile disbritörlükler vermekte olup,ayrıca Private Label olarak birçok markaya ürün yapmaktadır.\r</p><p>\r</p><p>Firmamızın amacı iç ve dış piyasadaki kişi ve firmalara istege bağlı özel ürünler yapmaktadır.\r</p><p>\r</p><p>Winkel iyimser,çalışkan ve sorumluluk anlayışıyla müşterilerini mutlu eder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-p"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1e1a18",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
+          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "semta@semta.com.tr",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mesaj"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Company Name. Terms of Use  | Privacy Policy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-m"
+        }
+      ]
+    },
+    "urunlerimiz.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Ürünlerimiz- Finnteknik boya ürünleri vs vs",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">İLETİŞİM</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/finn-135x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-q"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-t"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hrthr-557x514.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Zincir Yağı",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/asdada-579x546.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Silikonsuz Kalıp Ayırıcı",
+          "caption2": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/as-563x513.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Oto Cam Suyu",
+          "caption3": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele<br></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dgsdgs-600x507.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Pas Sökücü",
+          "caption4": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fdhdhd-600x496.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Fren Balata Spreyi",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ytryr-600x466.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "Oto Cam Suyu",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-u"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fren-balata-sprey-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Fren Balata Sprey",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/genel-temizleme-spreyi-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Genel Temizleme Spreyi",
+          "caption2": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kalp-ayrc-silikon-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Silikonlu Kalıp Ayırıcı<br>",
+          "caption3": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele<br></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kalp-koruyucu-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Kalıp Koruyucu",
+          "caption4": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fdhdhd-600x496.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Fren Balata Spreyi",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ytryr-600x466.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "Oto Cam Suyu",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-12"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/motor-temizleyici-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Motor Temizleyici",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/silikon-yaglayc-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Silikon Yağlayıcı",
+          "caption2": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/torpido-parlatc-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Torpido Parlatıcısı",
+          "caption3": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele<br></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sv-gres-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Sıvı Gres",
+          "caption4": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Semtasoft has been equipped to develop websites using this framework.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fdhdhd-600x496.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Fren Balata Spreyi",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ytryr-600x466.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "Oto Cam Suyu",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-13"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1e1a18",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
+          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "semta@semta.com.tr",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mesaj"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 Company Name. Terms of Use  | Privacy Policy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-s"
+        }
+      ]
+    },
+    "anasayfa.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Anasayfa- Finnteknik boya ürünleri vs vs",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -91,7 +1230,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -152,7 +1291,7 @@
           "title": "İLETİŞİME GEÇİN\n",
           "meta": "Aerosoller,yapıştırıcılar,yüzey tekniği yağlama,gres ve kozmetik ,hijyen [...]",
           "text": "<p>Aerosoller,yapıştırıcılar,yüzey tekniği yağlama,gres ve kozmetik ,hijyen [...]</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-tablet-vertical mbr-iconfont mbr-iconfont-btn\"></span>İletişim &gt;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"iletisim.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-tablet-vertical mbr-iconfont mbr-iconfont-btn\"></span>İletişim &gt;</a>",
           "_tags": [
             "Theme"
           ],
@@ -266,7 +1405,7 @@
           "title": "HABER BÜLTENİMİZE ÜYE OLUN",
           "meta": "Aerosoller,yapıştırıcılar,yüzey tekniği yağlama,gres ve kozmetik ,hijyen [...]",
           "text": "<p>Aerosoller,yapıştırıcılar,yüzey tekniği yağlama,gres ve kozmetik ,hijyen [...]</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Üye OL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Üye OL</a>",
           "_tags": [
             "Theme"
           ],
@@ -458,7 +1597,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
           "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
             "action": "semta@semta.com.tr",
@@ -517,803 +1656,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-i"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Hakkımızda",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "15px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">İLETİŞİM</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/finn-135x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-k"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-o"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/6ed95917f97cce4bed0fbfff5258bef1-2-2000x1390.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#1e1a18",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.8"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6ed95917f97cce4bed0fbfff5258bef1-2000x1390.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "\n<div><br></div><div>HAKKIMIZDA</div>",
-          "text": "<p>Winkel Gmbh firması 2000'li yılların ortasında Euskirchen'de kurulmuştur. Endüstri, otomotiv, inşaat gibi sektörlere kimyasal ve teknik ürünler üreten bir firmadır.\r</p><p>\r</p><p>Winkel ürün gamında;Aerosoller,yapıştırıcılar,yüzey tekniği yağlama,gres ve hijyen ürünleri bulunur.\r</p><p>\r</p><p>Winkel yurtdışında bir çok ülkeye temsilcilikler yolu ile disbritörlükler vermekte olup,ayrıca Private Label olarak birçok markaya ürün yapmaktadır.\r</p><p>\r</p><p>Firmamızın amacı iç ve dış piyasadaki kişi ve firmalara istege bağlı özel ürünler yapmaktadır.\r</p><p>\r</p><p>Winkel iyimser,çalışkan ve sorumluluk anlayışıyla müşterilerini mutlu eder.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-p"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1e1a18",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "semta@semta.com.tr",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mesaj"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-l"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 Company Name. Terms of Use  | Privacy Policy",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-m"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Web Site Maker Description",
-        "title": "Ürünlerimiz",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "15px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">İLETİŞİM</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/finn-135x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-q"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-t"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": false,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hrthr-557x514.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "Zincir Yağı",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/asdada-579x546.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "Silikonsuz Kalıp Ayırıcı",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/as-563x513.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "Oto Cam Suyu",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele<br></a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dgsdgs-600x507.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "Pas Sökücü",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fdhdhd-600x496.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "Fren Balata Spreyi",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ytryr-600x466.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "Oto Cam Suyu",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">İncele</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-u"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1e1a18",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "semta@semta.com.tr",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mesaj"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-r"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 Company Name. Terms of Use  | Privacy Policy",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-s"
-        }
-      ]
-    },
-    "iletisim.html": {
-      "settings": {
-        "meta_descr": "Finnteknik iletişim\n0212.222",
-        "title": "İletişim - Finnteknik boya ürünleri vs vs",
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "15px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">İLETİŞİM</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/finn-135x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-w"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ekran-alnts-661x310.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-10"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/6ed95917f97cce4bed0fbfff5258bef1-2000x1390.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#efefef",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.8"
-          },
-          "title": "İletişim Formu",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Bizimle iletişime geçin</a>",
-          "form": {
-            "action": "semta@semta.com.tr",
-            "alerts": {
-              "success": "Mesajınız başarıyla alındı!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "AD"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "E-MAİL"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "TELEFON"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "MESAJ"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-z",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1e1a18",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılar</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "semta@semta.com.tr",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mesaj"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts3-x"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019 Company Name. Terms of Use  | Privacy Policy",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-y"
         }
       ]
     }
