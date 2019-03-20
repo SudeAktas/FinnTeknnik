@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1139",
-    "currentPage": "index.html",
+    "currentPage": "iletisim.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -54,7 +54,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -167,6 +167,21 @@
         },
         {
           "_params": {
+            "googleMap": {
+              "address": "Bakır ve Prinç San.Sit Mustafa Kurtoğlu Cad. No:13 Beylikdüzü İstanbul",
+              "placeId": "ChIJ_____79ftRQRf2pV0gTsZYY",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-15"
+        },
+        {
+          "_params": {
             "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -179,7 +194,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
+          "text1": "<strong>ADRES</strong><br>Bakır ve Prinç San.Sit Mustafa Kurtoğlu Cad. No:13 Beylikdüzü İstanbul<br><br><b>İLETİŞİM</b><br>\nEmail: info@finnteknik.com<br>Tel: +90 212 876 54 01<br>Faks: +90 212 87654 40<br>",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -277,7 +292,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -416,7 +431,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
+          "text1": "<strong>ADRES</strong><br>Bakır ve Prinç San.Sit Mustafa Kurtoğlu Cad. No:13 Beylikdüzü İstanbul<br><br><b>İLETİŞİM</b><br>\nEmail: info@finnteknik.com<br>Tel: +90 212 876 54 01<br>Faks: +90 212 87654 40<br>",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -514,7 +529,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -1098,7 +1113,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
+          "text1": "<strong>ADRES</strong><br>Bakır ve Prinç San.Sit Mustafa Kurtoğlu Cad. No:13 Beylikdüzü İstanbul<br><br><b>İLETİŞİM</b><br>\nEmail: info@finnteknik.com<br>Tel: +90 212 876 54 01<br>Faks: +90 212 87654 40<br>",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
@@ -1199,7 +1214,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ANASAYFA<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"hakkimizda.html\">HAKKIMIZDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"urunlerimiz.html\">ÜRÜNLERİMİZ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"iletisim.html\">İLETİŞİM</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -1600,7 +1615,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Gönder</a>",
-          "text1": "<strong>ADRES</strong><br>Perpa Ticaret Merkezi<br><br><b>İLETİŞİM</b><br>\nEmail: semta@semta.com.tr<br>\nTelefon: 0212 210 96 92<br>\nFax: 0212 210 96 95",
+          "text1": "<strong>ADRES</strong><br>Bakır ve Prinç San.Sit Mustafa Kurtoğlu Cad. No:13 Beylikdüzü İstanbul<br><br><b>İLETİŞİM</b><br>\nEmail: info@finnteknik.com<br>Tel: +90 212 876 54 01<br>Faks: +90 212 87654 40<br>",
           "text2": "<p class=\"mbr-contacts__text\"><b>ÜRÜNLERİMİZ\n</b></p><p class=\"mbr-contacts__text\">Yapıştırıcılarr</p><p class=\"mbr-contacts__text\">Özel Ürünler</p><p class=\"mbr-contacts__text\">NSF Onaylı Ürünler</p><p class=\"mbr-contacts__text\">Aerosole Grubu</p><p class=\"mbr-contacts__text\">Otomotiv Grubu</p><p class=\"mbr-contacts__text\">Temizleme Grubu</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><br></p>",
           "form": {
             "title": "MESSAGE",
